@@ -1,0 +1,41 @@
+/*#title {*/
+/*        background:#b3f0ff;*/
+/*        }*/
+        
+.row {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 1100px;
+}
+
+.guru {
+    padding-top: 30px;
+    padding-left:20px;
+}
+
+.club {
+    padding-left:20px;
+}
+
+.bold {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.mx-auto {
+    padding-left: 88px;
+}
+
+.p1 {
+    padding-left: 100px;
+}
+
+.content {
+    position: relative;
+}
+
+#button1 {
+    position: absolute;
+    top: 0;
+    right: 1;
+}
